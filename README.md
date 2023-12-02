@@ -21,7 +21,7 @@ uma abordagem de conteúdo ( C# / .NET ) de maneira simples.
 
   ### Estrutura - IEnumerator
 
-          <> MoveNext()        : método deve retornar o próximo Enumerator
+          <> MoveNext()        : método deve mover para o próximo Enumerator
           <> Current()         : método deve retornar o atual Enumerator
           
 ![alt text](assets/images/img1.png)
