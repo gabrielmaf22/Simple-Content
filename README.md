@@ -13,13 +13,15 @@ uma abordagem de conteúdo ( C# / .NET ) de maneira simples.
           <> IEnumerable       : interface que requer que o objeto implemente "Enumerable"
           <> IEnumerator       : interface que requer que o objeto implemente "Enumerator"
 
-  ### Estrutura - IEnumerator
+  ### Estrutura - IEnumerable
 
           <> GetEnumerator()   : método deve retornar a instância de um objeto que implementa IEnumerator
 
-          
+![alt text](assets/images/img2.png)
 
   ### Estrutura - IEnumerator
 
           <> MoveNext()        : método deve retornar o próximo Enumerator
           <> Current()         : método deve retornar o atual Enumerator
+          
+![alt text](assets/images/img1.png)
